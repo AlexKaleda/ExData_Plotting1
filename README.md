@@ -1,3 +1,10 @@
+#Instructions to run plot1-4.R files
+1. Set working directory of R to where plot1-4.R files are.
+2. Download and extract to that folder <b>dataset</b>: <a href="https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip">Electric power consumption</a> [20Mb]
+3. Run plot1-4.R scripts to get plots.
+
+
+
 ## Introduction
 
 This assignment uses data from
